@@ -1,4 +1,6 @@
 # live-video-from-RPi-to-PC-by-TCP-IP-socket
+所需硬體材料:  RPi + 筆電 + python環境 + pi camera(webcam也可以)
+
 影像是pi camera的畫面，樹梅派經由socket將圖片傳到筆電，並且在筆電上顯示圖像。
 
 在這裡，server為樹梅派 / client為筆電
