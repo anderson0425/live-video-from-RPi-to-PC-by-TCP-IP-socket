@@ -12,3 +12,6 @@
 My hackmd note about this project:
 
 https://hackmd.io/nlcRvzZOQu-BQyZPSqh2vg?view
+
+若樹梅派有裝motion daemon，則一開始操作前要先執行
+`$ sudo /etc/init.d/motion stop`，這樣相機資源才可以被正常的取用。
